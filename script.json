@@ -1,5 +1,6 @@
 {
-    "BOT": "I'm Hariom's personal assistant, HNET-BOT.\n%[Gotcha !](postback:hello)",
+    "BOT": "I'm Hariom's personal assistant, HNET-BOT.%[Gotcha!](postback:hello)",
+    "Gotcha!": "You are chatting with Hariom via him bot. It's a little weird but you should try it.\n%[Hariom](postback:hariom)",
     "HELLO": "You are chatting with Hariom via him bot. It's a little weird but you should try it.\n%[Hariom](postback:hariom)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
