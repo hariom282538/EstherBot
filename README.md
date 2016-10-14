@@ -1,7 +1,7 @@
 # HNETBOT 
 
-Hello, I'm introducing myself! 
-HNETBOT is a messaging bot for introducing myself.
+Hello, I'm introducing myself! <br>
+HNETBOT is a messaging bot.
 
 ## HOW
 
